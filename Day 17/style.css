@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    border: 1px solid;
+}
+#countryName{
+    font-weight:400;
+    font-size:x-large;
+    color: rgb(255, 255, 255);
+}
+
+.card-text{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+#flag{
+    border-radius: 20px;
+    max-width: 200px;
+}
+
+#card1{
+    border: 1px solid black;
+}
